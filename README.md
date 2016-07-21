@@ -1,1 +1,11 @@
-"This is the readme"
+MY REACT STARTER KIT
+---
+
+Welcome.
+
+Setup
+---
+
+```
+npm install
+```
